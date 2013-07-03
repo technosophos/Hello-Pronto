@@ -6,3 +6,4 @@ To install:
 
    $ cd THIS_DIRECTORY
    $ npm install
+   $ node hello.js
