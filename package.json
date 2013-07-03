@@ -1,0 +1,14 @@
+{
+  "name": "example-project",
+  "description": "Simple example of Pronto.js",
+  "version": "0.0.1",
+  "author": "Matt Butcher <technosophos@gmail.com>",
+  "contributors": [
+    {"name": "Matt Butcher", "email": "technosophos@gmail.com"}
+  ],
+  "main": "index",
+  "dependencies": {
+    "pronto": ">=0.2.5"
+  },
+  "engines": {"node": ">= 0.4.9 < 1.0.0"}
+}
